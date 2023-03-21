@@ -1,0 +1,35 @@
+body {
+  z-index: 10;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  background-color: #9fc92cae;
+  height: 100vh;
+}
+.material-icons {
+  color: #f2f2f2;
+  font-size: 52px;
+  margin: 5%;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+li {
+  color: #f2f2f2;
+  font-size: 130%;
+  padding: 2% 5%;
+}
+
+
+.material-symbols-outlined {
+  color: #f3f2f2;
+  font-size: 300%;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}

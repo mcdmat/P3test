@@ -1,0 +1,14 @@
+#deco {
+  z-index: 1; 
+  position: fixed;
+  left: 66vw;
+  width: 20vw;
+  height: 100vh;
+  background-color: #9FC92C;
+}
+
+@media screen and (min-width: 768px) {
+#deco {
+  z-index:2;
+}
+  }
